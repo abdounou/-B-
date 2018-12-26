@@ -43,7 +43,7 @@ client.on("message", message => {
 
 ***__وصف عن البوت__***
 **
-ŔÂĮŅ BØŤ✨ 
+ŔÂĮŅ System✨ 
 متعدد الميزات و الاوامر فيه اوامر جميله يحتوي هذا البوت على
 خاصيه قائمه الالوان و تقدر تغير لونك زي برو بوت و مانع الاسبام و الترحيب 
 بصوره
@@ -830,7 +830,7 @@ client.on("message", (message) => {
  .setThumbnail(client.user.avatarURL)     
  .setDescription("Add me" + `
  **
-رابط البوت | https://discordapp.com/api/oauth2/authorize?client_id=521352883845988362&permissions=8&scope=bot
+رابط البوت | https://discordapp.com/api/oauth2/authorize?client_id=527213684477394994&permissions=0&scope=bot
  **
 `);
   message.author.sendEmbed(embed);
@@ -847,7 +847,7 @@ client.on("message", (message) => {
  .setThumbnail(client.user.avatarURL)     
  .setDescription(" ***welcome To server support*** " + `
  **
-رابط السيرفر | https://discord.gg/FJHjD5j
+رابط السيرفر | https://discord.gg/NS3zUdshttps://discordapp.com/api/oauth2/authorize?client_id=527213684477394994&permissions=0&scope=bot
  **
 `);
   message.author.sendEmbed(embed);
